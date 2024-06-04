@@ -1,6 +1,8 @@
+AWS_config_EMR/
 data/
 dossier_sync_AWS_S3/
 env/
 NB_Aide/
 NB_alternant/
 spark-3.5.1-bin-hadoop3/
+results/
